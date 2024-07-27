@@ -1,0 +1,5 @@
+numpy==1.26.3
+streamlit==1.30.0
+tensorflow==2.16.1
+gdown
+python-dotenv
