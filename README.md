@@ -23,7 +23,7 @@ To get started with the Loan Eligibility Predictor, follow these steps:
 
    ```bash
    git https://github.com/adarshnayak247/leaf-disease.git
-   cd cd leaf-disease-classifier
+   cd leaf-disease-classifier
    ```
 2. **Create and Activate a Virtual Environment on windows**
 
